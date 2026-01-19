@@ -70,7 +70,7 @@
 
     <!-- Miscellaneous -->
     <string name="saved_to_device">Uloženo do zařízení</string>
-    <string name="saved_to_notally">Uloženo do Notally</string>
+    <string name="saved_to_notally">Uloženo do NotallyZ</string>
     <string name="empty_note">Prázdná poznámka</string>
     <string name="empty_list">Prázdný seznam</string>
     <string name="select_labels">Vybrat štítky</string>
@@ -165,8 +165,8 @@
     <string name="save_recording">Uložit nahrávku?</string>
     <string name="delete_audio_recording_forever">Trvale smazat nahrávku?</string>
     <string name="tap_for_more_options">Zobrazit více možností</string>
-    <string name="to_record_audio">Chcete-li nahrávat zvuk, povolte Notally přístup ke svému mikrofonu. Klepněte na Nastavení > Oprávnění a povolte Mikrofon</string>
-    <string name="please_grant_notally_audio">Udělte prosím Notally povolení k nahrávání zvuku. Nahrávky nikdy neopustí vaše zařízení</string>
+    <string name="to_record_audio">Chcete-li nahrávat zvuk, povolte NotallyZ přístup ke svému mikrofonu. Klepněte na Nastavení > Oprávnění a povolte Mikrofon</string>
+    <string name="please_grant_notally_audio">Udělte prosím NotallyZ povolení k nahrávání zvuku. Nahrávky nikdy neopustí vaše zařízení</string>
     <string name="insert_an_sd_card_audio">Chcete-li nahrávat zvuk, vložte SD kartu</string>
     <string name="something_went_wrong_audio">Něco se pokazilo. Zvuková nahrávka mohla být přesunuta nebo smazána.\n\nChyba: (%1$d, %2$d)</string>
 
@@ -178,6 +178,6 @@
     <string name="monthly">Měsíčně</string>
     <string name="repeats_daily">%1$s, Opakuje se denně</string>
     <string name="repeats_monthly">%1$s, Opakuje se měsíčně</string>
-    <string name="please_grant_notally_notification">Udělte prosím Notally oprávnění k zasílání upozornění</string>
-    <string name="please_grant_notally_alarm">Udělte prosím Notally oprávnění nastavovat alarmy</string> 
+    <string name="please_grant_notally_notification">Udělte prosím NotallyZ oprávnění k zasílání upozornění</string>
+    <string name="please_grant_notally_alarm">Udělte prosím NotallyZ oprávnění nastavovat alarmy</string>
 </resources>

@@ -153,7 +153,7 @@ class Settings : Fragment() {
         intent.selector = Intent(Intent.ACTION_SENDTO, Uri.parse("mailto:"))
 
         intent.putExtra(Intent.EXTRA_EMAIL, arrayOf("bot2010413@outlook.com"))
-        intent.putExtra(Intent.EXTRA_SUBJECT, "Notally [Feedback]")
+        intent.putExtra(Intent.EXTRA_SUBJECT, "NotallyZ [Feedback]")
 
         val app = requireContext().applicationContext as Application
         val log = Operations.getLog(app)

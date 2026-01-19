@@ -70,7 +70,7 @@
 
     <!-- Miscellaneous -->
     <string name="saved_to_device">Zapisano w urządzeniu</string>
-    <string name="saved_to_notally">Zapisano w Notally</string>
+    <string name="saved_to_notally">Zapisano w NotallyZ</string>
     <string name="empty_note">Pusta notatka</string>
     <string name="empty_list">Pusta lista</string>
     <string name="select_labels">Zaznacz etykiety</string>
@@ -166,8 +166,8 @@
     <string name="save_recording">Zachować nagranie?</string>
     <string name="delete_audio_recording_forever">Usunąć nagranie audio na stałe?</string>
     <string name="tap_for_more_options">Dotknij, aby zobaczyć więcej możliwości</string>
-    <string name="to_record_audio">Aby móc nagrywać dźwięk, zezwól aplikacji Notally na dostęp do mikrofonu. Wejdź do sekcji uprawnień w ustawieniach swojego urządzenia i zezwól programowi Notally na dostęp do mikrofonu</string>
-    <string name="please_grant_notally_audio">Udziel programowi Notally pozwolenia na nagrywanie dźwięku. Nagrania są zachowywane lokalnie na twoim urządzeniu</string>
+    <string name="to_record_audio">Aby móc nagrywać dźwięk, zezwól aplikacji NotallyZ na dostęp do mikrofonu. Wejdź do sekcji uprawnień w ustawieniach swojego urządzenia i zezwól programowi Notally na dostęp do mikrofonu</string>
+    <string name="please_grant_notally_audio">Udziel programowi NotallyZ pozwolenia na nagrywanie dźwięku. Nagrania są zachowywane lokalnie na twoim urządzeniu</string>
     <string name="insert_an_sd_card_audio">Włóż kartę SD, aby móc nagrywać dźwięk</string>
     <string name="something_went_wrong_audio">Coś poszło nie tak. Nagranie audio mogło zostać przeniesione lub usunięte.\n\nBłąd: (%1$d, %2$d)</string>
 
@@ -179,6 +179,6 @@
     <string name="monthly">Miesięcznie</string>
     <string name="repeats_daily">%1$s, powtórzeń dziennie</string>
     <string name="repeats_monthly">%1$s, powtórzeń miesięcznie</string>
-    <string name="please_grant_notally_notification">Przyznaj programowi Notally uprawnienia do wysyłania powiadomień</string>
-    <string name="please_grant_notally_alarm">Przyznaj programowi Notally uprawnienia do ustawiania alarmów</string>
+    <string name="please_grant_notally_notification">Przyznaj programowi NotallyZ uprawnienia do wysyłania powiadomień</string>
+    <string name="please_grant_notally_alarm">Przyznaj programowi NotallyZ uprawnienia do ustawiania alarmów</string>
 </resources>

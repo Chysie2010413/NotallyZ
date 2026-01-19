@@ -62,7 +62,7 @@
 
     <!-- Miscellaneous -->
     <string name="saved_to_device">端末に保存されました</string>
-    <string name="saved_to_notally">Notallyに保存されました</string>
+    <string name="saved_to_notally">NotallyZに保存されました</string>
     <string name="empty_note">空のノート</string>
     <string name="empty_list">空のリスト</string>
     <string name="cant_open_link">リンクを開けません</string>

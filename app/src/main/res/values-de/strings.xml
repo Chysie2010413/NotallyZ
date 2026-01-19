@@ -67,7 +67,7 @@
 
     <!-- Miscellaneous -->
     <string name="saved_to_device">Auf dem Gerät gespeichert</string>
-    <string name="saved_to_notally">In Notally gespeichert</string>
+    <string name="saved_to_notally">In NotallyZ gespeichert</string>
     <string name="empty_note">Leere Notiz</string>
     <string name="empty_list">Leere Liste</string>
     <string name="select_labels">Label auswählen</string>
@@ -143,7 +143,7 @@
     <string name="unknown_name">Unbekannter Name</string>
     <string name="unknown_error">Unbekannter Fehler</string>
     <string name="insert_an_sd_card_images">SD-Karte einlegen, um Bilder hinzuzufügen</string>
-    <string name="please_grant_notally_notification">Bitte erteile Notally die Berechtigung, Benachrichtigungen zu senden.</string>
+    <string name="please_grant_notally_notification">Bitte erteile NotallyZ die Berechtigung, Benachrichtigungen zu senden.</string>
 
     <plurals name="cant_add_images">
         <item quantity="one">Kann %d Bild nicht hinzufügen</item>
@@ -163,8 +163,8 @@
     <string name="save_recording">Aufnahme speichern?</string>
     <string name="delete_audio_recording_forever">Audioaufnahme für endgültig löschen?</string>
     <string name="tap_for_more_options">Antippen für weitere Optionen</string>
-    <string name="to_record_audio">Um Audio aufzunehmen, erlaube Notally den Zugriff auf dein Mikrofon. Tippe auf Einstellungen > Berechtigungen und schalte Mikrofon ein</string>
-    <string name="please_grant_notally_audio">Bitte erteile Notally die Berechtigung zur Audioaufnahme. Die Aufnahmen verlassen niemals dein Gerät</string>
+    <string name="to_record_audio">Um Audio aufzunehmen, erlaube NotallyZ den Zugriff auf dein Mikrofon. Tippe auf Einstellungen > Berechtigungen und schalte Mikrofon ein</string>
+    <string name="please_grant_notally_audio">Bitte erteile NotallyZ die Berechtigung zur Audioaufnahme. Die Aufnahmen verlassen niemals dein Gerät</string>
     <string name="insert_an_sd_card_audio">SD-Karte für Audioaufnahmen einsetzen</string>
     <string name="something_went_wrong_audio">Etwas ist schief gelaufen. Die Audioaufnahme wurde möglicherweise verschoben oder gelöscht.\n\nFehler : (%1$d, %2$d)</string>
 </resources>
